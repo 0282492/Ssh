@@ -1,0 +1,7 @@
+echo "israfil_ak_" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk tutarlı" 
+git şube -M ana 
+git uzak başlangıç noktası ekle https://github.com/0282492/Ssh.git
+ git push - ana menşein sen
